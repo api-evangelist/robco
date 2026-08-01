@@ -1,8 +1,24 @@
 aid: robco
 name: Robco
-description: Robco is a company surfaced as a portfolio company of lightspeed-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: RobCo is a Munich- and Austin-based industrial robotics company building software-defined,
+  modular robotic automation delivered as Robotics-as-a-Service (RaaS) with zero upfront capital expenditure.
+  Its modular robot arms (up to 8 axes, 40 kg payload, 2.5 m reach, 0.1 mm repeatability), the Alfie autonomous
+  robot, the RobFlow no-code programming platform, RobCo Studio configuration and simulation tooling, and
+  the RobVision AI vision system let manufacturers automate machine tending, palletizing, materials handling,
+  and finishing tasks. RobCo serves manufacturing, food and beverage, logistics, automotive, wood, and
+  defense customers, and is backed by Lightspeed, Sequoia Capital, Lingotto, Kindred Capital, and Promus Ventures.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.rob.co/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/robco/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +28,41 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Robotics
+- Industrial Automation
+- Robotics-as-a-Service
+- Manufacturing
+- No-Code
+- Computer Vision
+- Physical AI
+- Automation
 apis: []
+common:
+- type: DomainSecurity
+  url: security/robco-domain-security.yml
+- type: Website
+  url: https://www.rob.co/
+- type: Portal
+  name: RobCo Studio partner portal
+  url: https://robco.studio/
+- type: Blog
+  url: https://www.rob.co/resources/knowledge/blog
+- type: Support
+  url: mailto:support@robco.de
+- type: PrivacyPolicy
+  url: https://www.rob.co/privacy
+- type: TermsOfService
+  url: https://www.rob.co/terms-and-conditions
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
