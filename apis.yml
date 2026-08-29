@@ -7,6 +7,17 @@ description: RobCo is a Munich- and Austin-based industrial robotics company bui
   the RobVision AI vision system let manufacturers automate machine tending, palletizing, materials handling,
   and finishing tasks. RobCo serves manufacturing, food and beverage, logistics, automotive, wood, and
   defense customers, and is backed by Lightspeed, Sequoia Capital, Lingotto, Kindred Capital, and Promus Ventures.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
