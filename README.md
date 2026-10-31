@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Robco is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+RobCo is a Munich- and Austin-based industrial robotics company building software-defined, modular robotic automation delivered as Robotics-as-a-Service (RaaS) with zero upfront capital expenditure. Its modular robot arms (up to 8 axes, 40 kg payload, 2.5 m reach, 0.1 mm repeatability), the Alfie autonomous robot, the RobFlow no-code programming platform, RobCo Studio configuration and simulation tooling, and the RobVision AI vision system let manufacturers automate machine tending, palletizing, materials handling, and finishing tasks. RobCo serves manufacturing, food and beverage, logistics, automotive, wood, and defense customers, and is backed by Lightspeed, Sequoia Capital, Lingotto, Kindred Capital, and Promus Ventures.
 
-Backed by: lightspeed-venture-partners
+**Areas:** Company · Robotics · Industrial Automation · Robotics as a Service · Manufacturing · No-Code · Computer Vision · Physical AI · Automation
+
+## Robco on APIs.io
+
+Everything profiled for Robco is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/robco/](https://apis.io/providers/robco/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Robco Domain Security](https://apis.io/security/robco/robco-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.rob.co/)
+- [Blog](https://www.rob.co/resources/knowledge/blog)
+- [Terms of service](https://www.rob.co/terms-and-conditions)
+- [Privacy policy](https://www.rob.co/privacy)
+
+## API Evangelist rating
+
+**Kin Score 12.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/robco/](https://apis.io/providers/robco/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Robco: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/robco/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
